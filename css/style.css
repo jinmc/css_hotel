@@ -75,6 +75,16 @@ body {
     list-style: none;
 }
 
+/* end of sidebar */
+
+/* navigation */
+
+.navigation {
+    margin-left: 8rem;
+    position: fixed;
+}
+
+
 /* end of common styles */
 
 
