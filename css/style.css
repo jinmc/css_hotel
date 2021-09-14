@@ -217,9 +217,17 @@ body {
 .checkbox:checked ~ .sidebar .line-3 {
     transform: rotate(405deg) translate(-5px, -6px);
 }
-
-
 /* end of navigation */
+
+/* header */
+.header {
+    margin-left: 8rem;
+}
+
+/* end of header */
+
+
+
 /* end of common styles */
 
 
